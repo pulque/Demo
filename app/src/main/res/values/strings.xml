@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Demo</string>
     <string name="main_title">Demo List</string>
+    <string name="flow_title">Flow Layout</string>
 </resources>
